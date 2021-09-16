@@ -1,3 +1,1 @@
-# Bios settings
-1.
-2.
+## Asrock Z77-Pro3, i5 3570k Hackintosh
